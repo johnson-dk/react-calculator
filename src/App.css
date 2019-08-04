@@ -31,3 +31,47 @@
     transform: rotate(360deg);
   }
 }
+
+.symbols{
+  display: block;
+  width: 70%;
+  margin-left: 10px;
+  float: left;
+}
+
+.symbols button {
+  width: 30%;
+  margin-right: 7px;
+  margin-bottom: 7px;
+  float: left;
+}
+
+.numbers{
+  display: block;
+  width: 70%;
+  margin-left: 10px;
+  float: left;
+}
+
+.numbers button {
+  width: 30%;
+  margin-right: 7px;
+  margin-bottom: 7px;
+  float: left;
+}
+
+.numbers .number_0 {
+  width: 166px;
+}
+
+.operators{
+  width: 27%;
+  float: right;
+  margin-bottom: 7px;
+}
+
+.operators button {
+  float: right;
+  margin-bottom: 7px;
+
+}
